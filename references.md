@@ -1,1 +1,5 @@
-this text conflicts with references on main
+
+# References
+
+* octocat 1 😈
+
